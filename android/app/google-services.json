@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136989386107",
+    "project_id": "stic-45153",
+    "storage_bucket": "stic-45153.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136989386107:android:fc096f823ef60b88ca89de",
+        "android_client_info": {
+          "package_name": "com.stic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtH4cIJsYRw5AsoPTh4pJYaC3X_cwtcYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
